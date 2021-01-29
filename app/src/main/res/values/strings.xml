@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">COMP_2160_Lab_02</string>
+    <string name="btn_convert">Convert!</string>
+    <string name="et_hint">enter temperature here.</string>
+    <string name="tv_default_result">Result</string>
+
+    <string-array name="spn_list">
+    <item>Celsius to Fahrenheit</item>
+    <item>Fahrenheit to Celsius</item>
+    </string-array>
+
+</resources>
